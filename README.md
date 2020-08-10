@@ -10,7 +10,14 @@ My practice on "[A collection of take home chellenges](https://datamasked.com/)"
 3. 03-EmployeeRetention
     * Tree
 4. 04-IdentifyingFraudulentActivities
+    * parse_dates
+    * XGB, cross_validation
+    * ROC
+    * FP vs. FN
+    * DecisionTreeClassifier: explain features
 5. 05-FunnelAnalysis
+    * Coversion ratio calculation
+    * Left Join
 
 ## References:
 1. https://github.com/stasi009/TakeHomeDataChallenges
