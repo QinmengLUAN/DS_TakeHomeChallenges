@@ -2,20 +2,20 @@
 My practice on "[A collection of take home chellenges](https://datamasked.com/)"
 
 ## Summary:
-1. 01-ConversionRate
+1. ConversionRate
     * Analyse the ages, countries and etc. for the conversion rate
-2. 02-SpanishTranslationABTest
+2. SpanishTranslationABTest
     * A/B Test
     * Timestamp data
-3. 03-EmployeeRetention
+3. EmployeeRetention
     * Tree
-4. 04-IdentifyingFraudulentActivities
+4. IdentifyingFraudulentActivities
     * parse_dates
     * XGB, cross_validation
     * ROC
     * FP vs. FN
     * DecisionTreeClassifier: explain features
-5. 05-FunnelAnalysis
+5. FunnelAnalysis
     * Coversion ratio calculation
     * Left Join
 
