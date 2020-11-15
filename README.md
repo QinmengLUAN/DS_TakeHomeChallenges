@@ -1,5 +1,5 @@
 # DS_TakeHomeChallenges
-My practice on "[A collection of take home chellenges](https://datamasked.com/)"
+My practice on "[A collection of take home chellenges](https://datamasked.com/)".
 
 ## Summary:
 1. ConversionRate
